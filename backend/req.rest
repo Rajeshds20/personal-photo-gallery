@@ -1,0 +1,13 @@
+
+###
+Get http://localhost:5000/
+
+####
+GET http://localhost:5000/user/logout
+Content-Type: application/json
+
+{
+    "name": "Test",
+    "password": "123456",
+    "email": "test1@gmail.com"
+}
